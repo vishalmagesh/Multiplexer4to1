@@ -1,0 +1,30 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Mon Jan  8 14:06:28 2024
+# Process ID: 19428
+# Current directory: C:/Users/LENOVO/OneDrive/Desktop/VERILOG CODES/4to1MUX
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent1860 C:\Users\LENOVO\OneDrive\Desktop\VERILOG CODES\4to1MUX\4to1MUX.xpr
+# Log file: C:/Users/LENOVO/OneDrive/Desktop/VERILOG CODES/4to1MUX/vivado.log
+# Journal file: C:/Users/LENOVO/OneDrive/Desktop/VERILOG CODES/4to1MUX\vivado.jou
+# Running On: DESKTOP-J43HL73, OS: Windows, CPU Frequency: 2496 MHz, CPU Physical cores: 10, Host memory: 8258 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/LENOVO/OneDrive/Desktop/VERILOG CODES/4to1MUX/4to1MUX.xpr}
+update_compile_order -fileset sources_1
+file mkdir C:/Users/LENOVO/OneDrive/Desktop/VERILOG CODES/4to1MUX/4to1MUX.srcs/sim_1/new
+file mkdir C:/Users/LENOVO/OneDrive/Desktop/VERILOG CODES/4to1MUX/4to1MUX.srcs/sim_1/new
+file mkdir C:/Users/LENOVO/OneDrive/Desktop/VERILOG CODES/4to1MUX/4to1MUX.srcs/sim_1/new
+file mkdir C:/Users/LENOVO/OneDrive/Desktop/VERILOG CODES/4to1MUX/4to1MUX.srcs/sim_1/new
+file mkdir C:/Users/LENOVO/OneDrive/Desktop/VERILOG CODES/4to1MUX/4to1MUX.srcs/sim_1/new
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+file mkdir C:/Users/LENOVO/OneDrive/Desktop/VERILOG CODES/4to1MUX/4to1MUX.srcs/sim_1/new
+file mkdir {C:/Users/LENOVO/OneDrive/Desktop/VERILOG CODES/4to1MUX/4to1MUX.srcs/sim_1/new}
+close [ open {C:/Users/LENOVO/OneDrive/Desktop/VERILOG CODES/4to1MUX/4to1MUX.srcs/sim_1/new/Test_MUX.v} w ]
+add_files -fileset sim_1 {{C:/Users/LENOVO/OneDrive/Desktop/VERILOG CODES/4to1MUX/4to1MUX.srcs/sim_1/new/Test_MUX.v}}
+update_compile_order -fileset sim_1
+update_compile_order -fileset sim_1
+launch_simulation
+launch_simulation
